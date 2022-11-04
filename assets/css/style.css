@@ -3276,6 +3276,59 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
       content: '';
       padding-right: 0; }
 
+/* frontpage*/
+.wide-background {
+  padding: 50px 0 120px 0; }
+
+#frontpage-handlungsfelder {
+  background-color: #00b1da; }
+
+#frontpage-wirtschaft {
+  background-color: #fbb52f; }
+
+#frontpage-umwelt {
+  background-color: #65b447; }
+
+.hf-title {
+  margin-top: 10vh;
+  color: white;
+  font-weight: bold;
+  size: 70vm; }
+
+.hf-description {
+  color: white;
+  size: 20vm;
+  margin-bottom: 1vh; }
+
+.hf-subtitle {
+  color: white;
+  font-weight: bold;
+  size: 40vm;
+  margin-top: 5vh;
+  margin-bottom: 3vh; }
+
+.hf-thema-title {
+  color: white;
+  size: 23vm;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 0.5em; }
+
+.hf-thema-text {
+  color: white;
+  size: 20vm;
+  margin-bottom: 1em; }
+
+.hf-goal-tiles {
+  margin-top: 3vw; }
+  .hf-goal-tiles .row > div {
+    padding-bottom: 15px; }
+
+.frontpage-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: center; }
+
 /* header */
 #search-mobile, #menu-mobile {
   position: absolute; }
