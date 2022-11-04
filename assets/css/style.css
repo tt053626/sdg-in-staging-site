@@ -3293,30 +3293,30 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   margin-top: 10vh;
   color: white;
   font-weight: bold;
-  size: 80vm; }
+  size: 50em; }
 
 .hf-description {
   color: white;
-  size: 20vm;
+  size: 12em;
   margin-bottom: 1vh; }
 
 .hf-subtitle {
   color: white;
   font-weight: bold;
-  size: 60vm;
+  size: 25em;
   margin-top: 5vh;
   margin-bottom: 3vh; }
 
 .hf-thema-title {
   color: white;
-  size: 23vm;
+  size: 15em;
   font-weight: bold;
   font-style: italic;
   margin-bottom: 0.5em; }
 
 .hf-thema-text {
   color: white;
-  size: 20vm;
+  size: 12em;
   margin-bottom: 1em; }
 
 .hf-goal-tiles {
