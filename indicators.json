@@ -1,120 +1,32 @@
 [
   {
     "goal": {
-      "id": "1",
-      "title": "Armut in allen ihren Formen und überall beenden",
-      "indicators": [
-        
-        {
-          "id": "1-1-1",
-          "title": "Anzahl der Personen die das Sozialhilfeportal nutzen",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/1-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "1-2-1",
-          "title": "Anzahl der Repaircafes, Gemeinschaftswerkstätten und ReUse Shops in Treptow-Köpenick",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/1-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1",
-          "title": "Armutsgefährdungsquote in Treptow-Köpenick",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/1-3-1",
-          "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "2",
-      "title": "Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern",
-      "indicators": [
-        
-        {
-          "id": "2-1-1",
-          "title": "Öffentlich zugängliche Obstbäume und Beete",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/2-1-1",
-          "status": "complete"
-        },
-        {
-          "id": "2-2-1",
-          "title": "Fair zertifizierte Lebensmittel in der Berliner Schulverpflegung",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/2-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "2-3-1",
-          "title": "Kilogramm gerettete Lebensmittel (Foodsharing)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/2-3-1",
-          "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
       "id": "3",
       "title": "Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern",
       "indicators": [
         
         {
-          "id": "3-1-1",
-          "title": "Stadtradeln - Anzahl der Personen die teilnehmen",
+          "id": "3-1",
+          "title": "Vorzeitige Sterblickeit (unter 70 Jahre, Todesfälle)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/3-1-1",
+          "href": "/sdg-in-staging-site/3-1",
           "status": "complete"
         },
         {
-          "id": "3-1-2",
-          "title": "Stadtradeln - Mit Fahrrad gefahrene Kilometer",
+          "id": "3-2",
+          "title": "Wohnungsnahe Grundversorgung - Krankenhaus (Krankenhausbetten je 100.000 Einwohner:innen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/3-1-2",
+          "href": "/sdg-in-staging-site/3-2",
           "status": "complete"
         },
         {
-          "id": "3-1-3",
-          "title": "Stadtradeln - Kilogramm CO2 eingespart",
+          "id": "3-3",
+          "title": "Immission von Luftschadstoffen (µg / m³)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/3-1-3",
-          "status": "complete"
-        },
-        {
-          "id": "3-2-1",
-          "title": "Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/3-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "3-3-1",
-          "title": "Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/3-3-1",
-          "status": "complete"
-        },
-        {
-          "id": "3-3-2",
-          "title": "Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/3-3-2",
+          "href": "/sdg-in-staging-site/3-3",
           "status": "complete"
         }]
     }
@@ -126,43 +38,35 @@
       "indicators": [
         
         {
-          "id": "4-1-1",
-          "title": "Anzahl der Schulen in Treptow-Köpenick die pro Jahr an der Lernkonferenz teilnehmen",
+          "id": "4-1",
+          "title": "Betreuung von Kindern in öff. KiTa (unter 3-Jährige / in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/4-1-1",
+          "href": "/sdg-in-staging-site/4-1",
           "status": "complete"
         },
         {
-          "id": "4-2-1",
-          "title": "Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick",
+          "id": "4-2",
+          "title": "Personal in öffentlich geförderter Kindertagespflege",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/4-2-1",
+          "href": "/sdg-in-staging-site/4-2",
           "status": "complete"
         },
         {
-          "id": "4-3-1",
-          "title": "Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs",
+          "id": "4-3",
+          "title": "Integrative Kindertageseinrichtungen (in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/4-3-1",
-          "status": "notstarted"
+          "href": "/sdg-in-staging-site/4-3",
+          "status": "complete"
         },
         {
-          "id": "4-4-1",
-          "title": "Noch zu definieren",
+          "id": "4-4",
+          "title": "Schulabbrecherquote* (in % / ohne Mittelschulabschluss)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/4-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "4-5-1",
-          "title": "Projektteilnehmer des Projektes 'Umweltschule in Europa - Internationale Nachhaltigkeitsschule'",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/4-5-1",
+          "href": "/sdg-in-staging-site/4-4",
           "status": "complete"
         }]
     }
@@ -174,75 +78,51 @@
       "indicators": [
         
         {
-          "id": "5-1-1",
-          "title": "Anzahl der Schulen in die am Projekttag teilnehmen",
+          "id": "5-1",
+          "title": "Empfänger/innen von Grundsicherung nach SGB II insgesamt",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/5-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "5-2-1",
-          "title": "Anzahl der angebotenen Schulungen des Bezirksamts zum gendersensiblen Sprachgebrauch",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/5-2-1",
+          "href": "/sdg-in-staging-site/5-1",
           "status": "complete"
         },
         {
-          "id": "5-3-1",
-          "title": "Anzahl der Projekte, Anlaufpunkte und Beratungsangebote für Mädchen und junge Frauen in Treptow-Köpenick",
+          "id": "5-2",
+          "title": "Kinder unter 15 J. in Grundsicherung (SGB II)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/5-3-1",
+          "href": "/sdg-in-staging-site/5-2",
           "status": "complete"
         },
         {
-          "id": "5-4-1",
-          "title": "Frauenanteil in den Leitungspositionen des höheren Dienstes",
+          "id": "5-3",
+          "title": "Empfänger/innen von Grundsicherung im Alter",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/5-4-1",
+          "href": "/sdg-in-staging-site/5-3",
           "status": "complete"
         },
         {
-          "id": "5-5-1",
-          "title": "Frauenanteil in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks",
+          "id": "5-4",
+          "title": "sv-Beschäftigungsquote (in % (15-65 J))",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/5-5-1",
-          "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "6",
-      "title": "Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten",
-      "indicators": [
-        
-        {
-          "id": "6-1-1",
-          "title": "Saprobie (organische Belastung) und Trophie (Nährstoffbelastung) des Müggelsee",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/6-1-1",
+          "href": "/sdg-in-staging-site/5-4",
           "status": "complete"
         },
         {
-          "id": "6-2-1",
-          "title": "Anzahl außerschulischer Einrichtungen der Natur- und Umweltbildung / Bildung für Nachhaltige Entwicklung (BNE)",
+          "id": "5-5",
+          "title": "Verdienstabstand zwischen Frauen und Männern (Medianeinkommen-Abstand in Euro (Vollzeit))",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/6-2-1",
+          "href": "/sdg-in-staging-site/5-5",
           "status": "complete"
         },
         {
-          "id": "6-3-1",
-          "title": "Badegewässerqualität der Badestellen innerhalb des Bezirks Treptow-Köpenick",
+          "id": "5-6",
+          "title": "Frauenanteil im Stadtrat, Gemeinderat bzw. Kreistag (in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/6-3-1",
+          "href": "/sdg-in-staging-site/5-6",
           "status": "complete"
         }]
     }
@@ -254,51 +134,11 @@
       "indicators": [
         
         {
-          "id": "7-1-1",
-          "title": "Noch zu definieren",
+          "id": "7-1",
+          "title": "Strom aus Windkraft* (Watt je Einwohner:in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/7-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "7-2-1",
-          "title": "Anzahl der Photovoltaikanlagen auf bezirkseigenen Gebäuden",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/7-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "7-2-2",
-          "title": "Stromerzeugung auf bezirkseigenen Gebäuden (kWh/Jahr)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/7-2-2",
-          "status": "complete"
-        },
-        {
-          "id": "7-3-1",
-          "title": "Photovoltaik - Summe der Anlagen im Bezirk",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/7-3-1",
-          "status": "complete"
-        },
-        {
-          "id": "7-3-2",
-          "title": "Photovoltaik - Stromeinspeisung im Bezirk",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/7-3-2",
-          "status": "complete"
-        },
-        {
-          "id": "7-3-3",
-          "title": "Solarthermie - Summe der Anlagen im Bezirk",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/7-3-3",
+          "href": "/sdg-in-staging-site/7-1",
           "status": "complete"
         }]
     }
@@ -310,59 +150,43 @@
       "indicators": [
         
         {
-          "id": "8-1-1",
-          "title": "Anzahl der Unternehmen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen",
+          "id": "8-1",
+          "title": "Bruttoinlandsprodukt (€ je Einwohner/in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/8-1-1",
+          "href": "/sdg-in-staging-site/8-1",
           "status": "complete"
         },
         {
-          "id": "8-2-1",
-          "title": "Anzahl der Teilnehmenden am Mentoringprogramm",
+          "id": "8-2",
+          "title": "Langzeitarbeitslosenquote (Prozentualer Anteil, der länger als 1 Jahr arbeitslos ist)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/8-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-2-2",
-          "title": "Anteil der Bewerber*innen mit Einwanderungsgeschichte",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/8-2-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-3-1",
-          "title": "Anteil der Beschäftigten mit Einwanderungsgeschichte",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/8-3-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-3-2",
-          "title": "Anteil der Beschäftigten mit Einwanderungsgeschichte in Führungspositionen der Kommunalverwaltung",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/8-3-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "8-4-1",
-          "title": "Anzahl der kommunalen Einrichtungen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/8-4-1",
+          "href": "/sdg-in-staging-site/8-2",
           "status": "complete"
         },
         {
-          "id": "8-5-1",
-          "title": "Bruttostundenverdienste und Verdienstunterschiede zwischen Frauen und Männern (Gender Pay Gap unbereinigt)",
+          "id": "8-3",
+          "title": "Beschäftigungsquote (15- bis 64-Jährige / in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/8-5-1",
+          "href": "/sdg-in-staging-site/8-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-4",
+          "title": "sv-Beschäftigte (55 Jahre und älter)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-in-staging-site/8-4",
+          "status": "complete"
+        },
+        {
+          "id": "8-5",
+          "title": "Aufstocker (Anteil der erwerbstätigen ALG-II Bezieher an allen erwerbsfähigen Leistungsbeziehern)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-in-staging-site/8-5",
           "status": "complete"
         }]
     }
@@ -374,35 +198,27 @@
       "indicators": [
         
         {
-          "id": "9-1-1",
-          "title": "Anzahl der Ladestationen für E-Autos",
+          "id": "9-1",
+          "title": "sv-Beschäftigte mit Hochschulabschluss (Arbeitsort, im Juni)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/9-1-1",
+          "href": "/sdg-in-staging-site/9-1",
           "status": "complete"
         },
         {
-          "id": "9-1-2",
-          "title": "Stromverbrauch an Elektro-Ladesäulen",
+          "id": "9-2",
+          "title": "Existenzgründungen* (je 1.000 Einwohner:innen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/9-1-2",
+          "href": "/sdg-in-staging-site/9-2",
           "status": "complete"
         },
         {
-          "id": "9-2-1",
-          "title": "Anzahl öffentlicher Einrichtungen mit freiem WLAN Zugang",
+          "id": "9-3",
+          "title": "Breitbandversorgung - private Haushalte",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/9-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "9-3-1",
-          "title": "Breitband Verfügbarkeit Mbit/s in %",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/9-3-1",
+          "href": "/sdg-in-staging-site/9-3",
           "status": "complete"
         }]
     }
@@ -414,35 +230,27 @@
       "indicators": [
         
         {
-          "id": "10-1-1",
-          "title": "Anteil mehrsprachiger Informationsmaterialien",
+          "id": "10-1",
+          "title": "Beschäftigungsquote - Ausländer (in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/10-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-2-1",
-          "title": "Anzahl der angebotenen Fortbildungen innerhalb der Verwaltung",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/10-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "10-3-1",
-          "title": "Anzahl der Unternehmen in Treptow-Köpenick die eine Gemeinwohl-Bilanz durchführen",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/10-3-1",
+          "href": "/sdg-in-staging-site/10-1",
           "status": "complete"
         },
         {
-          "id": "10-4-1",
-          "title": "Gini-Koeffizient der Äquivalenzeinkommen in Treptow-Köpenick",
+          "id": "10-2",
+          "title": "Schulabbrecherquote - Ausländer (in % / im Verhältnis zur Schulabbrecherquote in der Gesamtbevölkerung)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/10-4-1",
+          "href": "/sdg-in-staging-site/10-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-3",
+          "title": "Einbürgerungen im Jahr* (absolut)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-in-staging-site/10-3",
           "status": "complete"
         }]
     }
@@ -454,75 +262,83 @@
       "indicators": [
         
         {
-          "id": "11-1-1",
-          "title": "Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk",
+          "id": "11-1",
+          "title": "Naherholungsflächen (mit Wald) in Hektar je 1000 Einwohner/-innen",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-1-1",
+          "href": "/sdg-in-staging-site/11-1",
           "status": "complete"
         },
         {
-          "id": "11-1-2",
-          "title": "Anzahl der Ausleihen von Lastenrädern",
+          "id": "11-2",
+          "title": "Flächeninanspruchnahme (in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-1-2",
+          "href": "/sdg-in-staging-site/11-2",
           "status": "complete"
         },
         {
-          "id": "11-2-1",
-          "title": "Anzahl der Abholstellen für Produkte Solidarischer Landwirtschaft (SoLaWi)",
+          "id": "11-3",
+          "title": "Flächenneuinanspruchnahme (in %)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-2-1",
+          "href": "/sdg-in-staging-site/11-3",
           "status": "complete"
         },
         {
-          "id": "11-2-2",
-          "title": "Anzahl der Imker im Bezirk",
+          "id": "11-4",
+          "title": "Flächennutzungsintensität (m² je Einwohner/-in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-2-2",
+          "href": "/sdg-in-staging-site/11-4",
           "status": "complete"
         },
         {
-          "id": "11-2-3",
-          "title": "Anzahl der Bienenvölker im Bezirk",
+          "id": "11-5",
+          "title": "Mietpreise (ohne geförderten Wohnungsbau) (Durchschnittliche Nettokaltmiete / € je m²)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-2-3",
+          "href": "/sdg-in-staging-site/11-5",
           "status": "complete"
         },
         {
-          "id": "11-3-1",
-          "title": "Anzahl Baumscheibenpatinnen und -paten",
+          "id": "11-6",
+          "title": "Wohnfläche je Einwohner (in m²)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-3-1",
+          "href": "/sdg-in-staging-site/11-6",
           "status": "complete"
         },
         {
-          "id": "11-4-1",
-          "title": "Häufigkeit der auf Wegen genutzten Verkehrsmittel in Treptow-Köpenick",
+          "id": "11-7",
+          "title": "ÖPNV* (Nahversorgung mit Haltestellen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-4-1",
+          "href": "/sdg-in-staging-site/11-7",
           "status": "complete"
         },
         {
-          "id": "11-5-1",
-          "title": "Sport-, Freizeit- und Erholungsfläche in Treptow-Köpenick",
+          "id": "11-8",
+          "title": "PKW-Dichte* (Anzahl der PKW je 1.000 Einwohner:innen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-5-1",
+          "href": "/sdg-in-staging-site/11-8",
           "status": "complete"
         },
         {
-          "id": "11-5-2",
-          "title": "Versorgung mit öffentlichen Grünflächen insgesamt",
+          "id": "11-9",
+          "title": "Beteigte an Unfällen mit Personenschaden",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/11-5-2",
+          "href": "/sdg-in-staging-site/11-9",
+          "status": "complete"
+        },
+        {
+          "id": "11-10",
+          "title": "Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie bzw. Fernwärme (in %)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-in-staging-site/11-10",
           "status": "complete"
         }]
     }
@@ -534,99 +350,35 @@
       "indicators": [
         
         {
-          "id": "12-1-1",
-          "title": "Anzahl der Fortbildungen zu nachhaltiger und fairer Beschaffung pro Jahr",
+          "id": "12-1",
+          "title": "Abfallmenge (private Haushalte)* (Tonne je Einwohner:in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/12-1-1",
+          "href": "/sdg-in-staging-site/12-1",
           "status": "complete"
         },
         {
-          "id": "12-2-1",
-          "title": "Anzahl der Kirchengemeinden die Teil der Fairtrade Town Kampagne sind",
+          "id": "12-2",
+          "title": "Fairtrade-Town* (Anzahl der Zertifizierungen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/12-2-1",
+          "href": "/sdg-in-staging-site/12-2",
           "status": "complete"
         },
         {
-          "id": "12-2-2",
-          "title": "Anzahl der Kirchengemeinden mit dem Siegel 'Faire Gemeinde' im Bezirk",
+          "id": "12-3",
+          "title": "Trinkwasserverbrauch - private Haushalte (Liter je Einwohner:in und Tag)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/12-2-2",
+          "href": "/sdg-in-staging-site/12-3",
           "status": "complete"
         },
         {
-          "id": "12-3-1",
-          "title": "Stand der Zertifizierung der Kommune als Fairtrade Town",
+          "id": "12-4",
+          "title": "Fairtrade-Schools (Anzahl der Schulen mit Zertifizierung)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/12-3-1",
-          "status": "complete"
-        },
-        {
-          "id": "12-4-1",
-          "title": "Anzahl der Fairtrade Schulen in Treptow-Köpenick",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/12-4-1",
-          "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "13",
-      "title": "Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen",
-      "indicators": [
-        
-        {
-          "id": "13-1-1",
-          "title": "Stellenanteile für das Klimaschutzmanagement",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-1-1",
-          "status": "complete"
-        },
-        {
-          "id": "13-1-2",
-          "title": "Index Kommunaler Klimaschutz",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-1-2",
-          "status": "complete"
-        },
-        {
-          "id": "13-2-1",
-          "title": "Mittlere werktägliche Fahrradverkehrsstärke an der Zählstelle Treptow-Köpenick Kaisersteg",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "13-2-2",
-          "title": "Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-2-2",
-          "status": "complete"
-        },
-        {
-          "id": "13-2-3",
-          "title": "Kilometer Radschnellwege im Bezirk",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-2-3",
-          "status": "complete"
-        },
-        {
-          "id": "13-3-1",
-          "title": "CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/13-3-1",
+          "href": "/sdg-in-staging-site/12-4",
           "status": "complete"
         }]
     }
@@ -638,68 +390,12 @@
       "indicators": [
         
         {
-          "id": "14-1-1",
-          "title": "Rote Liste Einstufung der in Berliner Gewässern vorkommenden Fischarten",
+          "id": "14-1",
+          "title": "Fließwasserqualität in % (Ökologisches Potenzial von x% der Fließgewässer in der Kommune ist mind. 'gut' bewertet)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/14-1-1",
+          "href": "/sdg-in-staging-site/14-1",
           "status": "complete"
-        },
-        {
-          "id": "14-2-1",
-          "title": "Anzahl der Anwohnerinnen die an der Sprechstunde der Ranger teilnehmen",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/14-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "14-3-1",
-          "title": "Noch zu definieren",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/14-3-1",
-          "status": "notstarted"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "15",
-      "title": "Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und dem Verlust der biologischen Vielfalt ein Ende setzen",
-      "indicators": [
-        
-        {
-          "id": "15-1-1",
-          "title": "Index Kommunale Klimaanpassung",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/15-1-1",
-          "status": "complete"
-        },
-        {
-          "id": "15-2-1",
-          "title": "Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/15-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "15-3-1",
-          "title": "Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/15-3-1",
-          "status": "complete"
-        },
-        {
-          "id": "15-4-1",
-          "title": "Noch zu definieren",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/15-4-1",
-          "status": "notstarted"
         }]
     }
   },
@@ -710,124 +406,36 @@
       "indicators": [
         
         {
-          "id": "16-1-1",
-          "title": "Anzahl der partizipativen Veranstaltungen zum Thema SDGs des Bezirksamts Treptow-Köpenick pro Jahr",
+          "id": "16-1",
+          "title": "Straftaten (polizeilich gemeldet)* (je 1.000 Einwohner:innen)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/16-1-1",
+          "href": "/sdg-in-staging-site/16-1",
           "status": "complete"
         },
         {
-          "id": "16-2-1",
-          "title": "Anzahl der interreligiösen Veranstaltungen pro Jahr",
+          "id": "16-2",
+          "title": "Finanzmittelsaldo (€ je Einwohner:in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/16-2-1",
+          "href": "/sdg-in-staging-site/16-2",
           "status": "complete"
         },
         {
-          "id": "16-3-1",
-          "title": "Anzahl der rassistisch, antisemitisch, homophob und rechtsextrem geprägter Vorfälle pro Jahr in Treptow-Köpenick",
+          "id": "16-3",
+          "title": "Steuereinnahmen (€ je Einwohner:in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/16-3-1",
+          "href": "/sdg-in-staging-site/16-3",
           "status": "complete"
         },
         {
-          "id": "16-4-1",
-          "title": "Anzahl der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen",
+          "id": "16-4",
+          "title": "Liquiditätskredite (€ je Einwohner:in)",
           "description": "",
           "keywords": "",
-          "href": "/sdg-in-staging-site/16-4-1",
+          "href": "/sdg-in-staging-site/16-4",
           "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "17",
-      "title": "Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen",
-      "indicators": [
-        
-        {
-          "id": "17-1-1",
-          "title": "Anzahl der Aktivitäten mit Partnerstädten und Veranstaltungen zum Thema Städtepartnerschaften des Bezirksamts Treptow-Köpenick pro Jahr",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-1-1",
-          "status": "complete"
-        },
-        {
-          "id": "17-2-1",
-          "title": "Menge verkaufter Packungen Fairtrade Kaffee 'Treptow-Köpenicker Bohne' pro Jahr",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-2-1",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-1",
-          "title": "Städtepartnerschaften",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-3-1",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-2",
-          "title": "Gemeindeprojekte und -partnerschaften",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-3-2",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-3",
-          "title": "Schulpartnerschaften",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-3-3",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-4",
-          "title": "Weitere zivilgesellschaftliche Projekte",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-3-4",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-5",
-          "title": "Fairer Handel",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-3-5",
-          "status": "complete"
-        },
-        {
-          "id": "17-4-1",
-          "title": "Eine-Welt-Projekte und Partnerschaften im Bezirk Treptow-Köpenick",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-4-1",
-          "status": "complete"
-        },
-        {
-          "id": "17-5-1",
-          "title": "Noch zu definieren",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-6-1",
-          "title": "Öffentliche Ausgaben für Entwicklungszusammenarbeit (Official Development Assistance, ODA)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-in-staging-site/17-6-1",
-          "status": "notstarted"
         }]
     }
   }]

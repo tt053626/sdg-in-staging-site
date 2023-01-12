@@ -3276,7 +3276,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
       content: '';
       padding-right: 0; }
 
-/* frontpage*/
+/* frontpage-Handlungsfelder*/
 .wide-background {
   padding: 50px 0 120px 0; }
 
@@ -3293,31 +3293,43 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   margin-top: 10vh;
   color: white;
   font-weight: bold;
-  size: 50em; }
+  font-size: 5em; }
 
 .hf-description {
+  margin-bottom: 1vh;
   color: white;
-  size: 12em;
-  margin-bottom: 1vh; }
+  font-size: 1.5em;
+  border-bottom: 1px solid white;
+  padding-bottom: 1em; }
 
 .hf-subtitle {
+  margin-top: 5vh;
+  margin-bottom: 3vh;
   color: white;
   font-weight: bold;
-  size: 25em;
-  margin-top: 5vh;
-  margin-bottom: 3vh; }
+  font-size: 2.5em; }
 
 .hf-thema-title {
+  margin-bottom: 0.1em;
   color: white;
-  size: 15em;
+  font-size: 1.5em;
   font-weight: bold;
-  font-style: italic;
-  margin-bottom: 0.5em; }
+  font-style: italic; }
 
 .hf-thema-text {
+  margin-bottom: 1em;
   color: white;
-  size: 12em;
-  margin-bottom: 1em; }
+  font-size: 1.2em; }
+
+.flex-grid {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  flex-direction: row; }
+
+.flex-grid > * {
+  flex-basis: 27%;
+  width: 33.33%; }
 
 .hf-goal-tiles {
   margin-top: 3vw; }
@@ -3591,6 +3603,37 @@ header .container {
 body {
   background: white top left repeat-x;
   padding-top: 15px; }
+
+/* goal-by-target-page*/
+.layout-goal-by-target-vertical .goal-target-and-indicators {
+  margin-bottom: 0px; }
+  .layout-goal-by-target-vertical .goal-target-and-indicators::after {
+    content: "" / "";
+    height: 1px;
+    border-bottom: 0px;
+    width: 0;
+    margin-left: 60px;
+    padding-bottom: 0px;
+    display: inline-block; }
+@media screen and (min-width: 769px) {
+  .layout-goal-by-target-vertical .goal-indicator {
+    min-height: 80px;
+    margin-left: 0px;
+    position: relative;
+    width: calc(100% - 60px); }
+    .layout-goal-by-target-vertical .goal-indicator .indicator-name {
+      width: 75%; }
+    .layout-goal-by-target-vertical .goal-indicator .status {
+      position: absolute;
+      right: 0;
+      top: 0;
+      margin-top: 0;
+      width: min-content; } }
+@media screen and (min-width: 992px) {
+  .layout-goal-by-target-vertical .goal-indicator {
+    min-height: auto; }
+    .layout-goal-by-target-vertical .goal-indicator .status {
+      width: auto; } }
 
 /* goal-footer*/
 #text {
