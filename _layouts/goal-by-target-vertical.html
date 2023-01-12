@@ -18,20 +18,8 @@
         {% for group in goal_indicators %}
         {% assign target = group.name | sdg_lookup %}
         <div class="row no-gutters goal-target-and-indicators">
-            <h3 class="goal-target">
-                <span class="target-number"><span class="sr-only">{{ page.t.general.target }}</span> {{ target.number }}</span>
-            </h3>
-            <span class="target-name">{{ target.name }}</span>
-            {% for indicator in group.items %}
 
-            {% assign tag_classes = "" | split: "," %}
-            {% if indicator.tags %}
-            {% for tag in indicator.tags %}
-            {% assign tag_slug = "indicator-" | append: tag | slugify %}
-            {% assign tag_classes = tag_classes | push: tag_slug %}
-            {% endfor %}
-            {% endif %}
-            {% assign tag_classes = tag_classes | join: " " %}
+            {% for indicator in group.items %}
 
             <div class="goal-indicator">
                 <h4>
